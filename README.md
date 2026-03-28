@@ -2,7 +2,7 @@
 
 Backend engineer at BNY, building production systems in Java 17 · Spring Boot · PostgreSQL · Redis · Docker.
 
-**Currently building:** [semantic-search](https://github.com/ankitghanghas07/semantic-search) — an Enterprise Document Search system with a full RAG pipeline. Async job queuing (BullMQ), vector similarity search (pgvector), LLM-powered retrieval (Google Gemini API). Deploying soon.
+**Currently building:** [semantic-search](https://github.com/ankitghanghas07/semantic-search) — an Enterprise Document Search system with a full RAG pipeline. Async job queuing (BullMQ), vector similarity search (pgvector), LLM-powered retrieval (Google Gemini API). 
 
 **Competitive Programming:**
 - Codeforces Expert — 1702 rating
@@ -25,7 +25,7 @@ Backend engineer at BNY, building production systems in Java 17 · Spring Boot �
 ### 📌 Pinned Projects
 | Project | Stack | Status |
 |---|---|---|
-| [semantic-search](https://github.com/ankitghanghas07/semantic-search) | Spring Boot · pgvector · BullMQ · Gemini API | 🚧 In progress |
+| [semantic-search](https://github.com/ankitghanghas07/semantic-search) | Node.js · Express · TypeScript · pgvector · BullMQ · Gemini API · Angular | 🚧 In progress |
 | [Burst_image](https://github.com/ankitghanghas07/Burst_image) | Python · PyTorch · GPU Acceleration | ✅ Done |
 
 ---
