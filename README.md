@@ -8,10 +8,6 @@ Backend engineer at BNY, building production systems in Java 17 · Spring Boot �
 - Codeforces Expert — 1702 rating
 - LeetCode Knight — Top 3.15% globally · 500+ problems solved
 
-**What I'm studying:**
-- DDIA Chapters 7–8 (transaction isolation, distributed consensus)
-- Weekly system design practice
-
 ---
 
 ### 🛠 Tech Stack
@@ -34,4 +30,4 @@ Backend engineer at BNY, building production systems in Java 17 · Spring Boot �
 
 ---
 
-📫 [LinkedIn](https://linkedin.com/in/sanjay-ghanghas-software-development-engineer) · Open to SDE2 roles at Google · Meta · Amazon · Microsoft
+📫 [LinkedIn](https://linkedin.com/in/sanjay-ghanghas-software-development-engineer) 
