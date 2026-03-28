@@ -6,7 +6,7 @@ Backend engineer at BNY, building production systems in Java 17 · Spring Boot �
 
 **Competitive Programming:**
 - Codeforces Expert — 1702 rating
-- LeetCode Knight — Top 3.15% globally · 500+ problems solved
+- LeetCode Knight — Top 3.15% globally.
 
 ---
 
